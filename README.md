@@ -16,12 +16,3 @@ This is a simple blog website created using **HTML** and **CSS**. The project in
 ## Technologies Used
 - **HTML5** for structuring the web pages.
 - **CSS3** for styling and layout.
-
-## License
-This project is open-source and available under the MIT License.
-
----
-### Author
-Created by **Zyler**
-
-Happy coding! 🚀
